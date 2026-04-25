@@ -21,9 +21,9 @@
 
 ### ⬇️ Download
 
-[**Download**](https://github.com/KiruhiHub/SetupWizard/releases/download/v1.0.0/SetupWizard-linux-amd64)
-
-</div>
+[**Download**]()
+ 
+ </div>
 
 
 
